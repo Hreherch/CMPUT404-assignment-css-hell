@@ -1,0 +1,7 @@
+High-quality_lens_flare_rendering.png was retrieved from:
+    https://commons.wikimedia.org/wiki/File:High-quality_lens_flare_rendering.png
+
+under the CC BY SA 3.0 License
+
+Attribution is made by linking to the original source (A SIGGRAPH 2011 paper on Physically-Based Real-Time Lens Flare Rendering):
+	http://www.mpi-inf.mpg.de/resources/lensflareRendering
